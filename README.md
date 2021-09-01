@@ -1,5 +1,9 @@
 # RGB-Picker
 
+## Table of Contents
+
+1. [Built with](##built-with)
+
 ## Built with
 
 [Java](https://www.java.com/)
