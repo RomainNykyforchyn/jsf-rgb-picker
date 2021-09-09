@@ -14,7 +14,7 @@
 
 ## Usage <a name="usage"></a>
 
-With this web-application you can try different combinations of RGB-values and see which colours are made. When the button is pressed, the background will change it's colour according to your choice of RGB-values.
+With this web-application, you can try different combinations of RGB-values and see which colours are made. When the button is pressed, the background will change it's colour according to your choice of RGB-values.
 
 ## Contact <a name="contact"></a>
 
