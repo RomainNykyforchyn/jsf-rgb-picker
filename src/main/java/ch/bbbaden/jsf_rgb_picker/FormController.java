@@ -1,8 +1,3 @@
-/*
- * 01.09.2021
- * FormController
- * Romain
- */
 package ch.bbbaden.jsf_rgb_picker;
 
 import static java.lang.Integer.toHexString;
@@ -11,10 +6,6 @@ import javax.inject.Named;
 import javax.enterprise.context.Dependent;
 import javax.inject.Inject;
 
-/**
- *
- * @author Romain
- */
 @Named(value = "formController")
 @ApplicationScoped
 public class FormController {
