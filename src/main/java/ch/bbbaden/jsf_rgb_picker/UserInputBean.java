@@ -1,18 +1,9 @@
-/*
- * 01.09.2021
- * UserInputBean
- * Romain
- */
 package ch.bbbaden.jsf_rgb_picker;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Named;
 import javax.enterprise.context.Dependent;
 
-/**
- *
- * @author Romain
- */
 @Named(value = "userInputBean")
 @ApplicationScoped
 public class UserInputBean {
