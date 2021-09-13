@@ -3,7 +3,7 @@
  * UserInputBean
  * Romain
  */
-package ch.bbbaden.jsf_rgg_picker;
+package ch.bbbaden.jsf_rgb_picker;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Named;
