@@ -3,7 +3,7 @@
  * FormController
  * Romain
  */
-package ch.bbbaden.jsf_rgg_picker;
+package ch.bbbaden.jsf_rgb_picker;
 
 import static java.lang.Integer.toHexString;
 import javax.enterprise.context.ApplicationScoped;
